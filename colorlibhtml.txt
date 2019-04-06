@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport:" content="width=device-width, initial.scale=1,shrink-to-fit=no">
+    <title>Colorlib Clone</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="colorlib.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  </head>
+  <body>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+      <script type="text/javascript" src="popper.min.js"></script>
+    <script type="text/javascript" src="bootstrap.min.js"></script>
+
+
+    <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-white">
+  <!-- navigation -->
+  <a class="navbar-brand" href="#"><img width="160" height="35" src="logo.png"></a>
+<button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#div1">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+<div id="div1" class="collapse navbar-collapse">
+      <ul class="navbar-nav ml-auto text-dark">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">HOME</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active"  href="#">SERVICE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active"  href="#">PROJECT</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active"  href="#">BLOG</a>
+        </li>
+
+      <!--  <li class="nav-item">
+          <a class="nav-link active"  href="#">PAGES</a>
+        </li>-->
+       <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle active"  href="#" id="navbardrop" data-toggle="dropdown">PAGES</a>
+          <div class="dropdown-menu">
+            <a href="#">Generic</a><br>
+             <a href="#">Elements</a>
+          </div>
+          </li>
+        
+      </ul>
+</div>
+</nav>
+
+<div id="pic1" class="container-fluid">
+  <div class="">
+    <!--<p class="text-center text-white">We provide<br><h3>Solutions</h3>that<br>Brings<h3>Joy</h3></p>-->
+
+<!--  <button type="button" name="button" class="btn btn-info">HIRE US NOW!</button>-->
+  </div>
+</div><br><br>
+
+<p class="lead text-dark text-secondary text-center"><h1 class="text-center">Latest News from all categories</h1></p>
+<p  class="text-muted text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore<br> et dolore magna sander mania udit tasa radesr</p><br>
+
+<div id="cont" class="container fluid">
+  <div class="row text-center">
+
+    <div id="container" class="col-md-3">
+      <div class="icon"><i class = "fa fa-rocket fa-3x" aria-hidden="true"></i></div><br>
+      <div class="content">
+        <h3 class="text-center">Easy Flight Search</h3><br>
+        <p class="text-center text-muted">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct.</p><br>
+    <button class="btn  text-dark text-center"><h6>View Details</h6></button>
+      </div>
+    </div>
+
+    <div class="col-md-3">
+    <div class="icon"><i style="height:24px" class = "fa fa-magic fa-3x" aria-hidden="true"></i></div><br>
+      <div class="content">
+        <h3 class="text-center">Get Hotel Offers</h3><br>
+        <p class="text-center text-muted">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct.</p><br>
+<button class="btn  text-dark text-center"><h6>View Details</h6></button>
+      </div>
+    </div>
+
+    <div id="container" class="col-md-3">
+      <div class="icon"><i class = "fa fa-gift fa-3x" aria-hidden="true"></i></div><br>
+      <div class="content">
+        <h3 class="text-center">Holiday Packages</h3><br>
+        <p class="text-center text-muted">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct.</p><br>
+<button class="btn  text-dark text-center"><h6>View Details</h6></button>
+      </div>
+    </div>
+
+    <div id="container" class="col-md-3">
+      <div class="icon"><i class = "fa fa-phone fa-3x" aria-hidden="true"></i></div><br>
+      <div class="content">
+        <h3 class="text-center">Dedicated Support</h3><br>
+        <p class="text-center text-muted">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct.</p><br>
+<button class="btn text-dark text-center"><h6>View Details</h6></button>
+      </div>
+    </div>
+
+
+    </div>
+
+</div>
+
+<div id="foot" class="">
+
+
+</div>
+
+
+
+
+
+  </body>
+</html>
